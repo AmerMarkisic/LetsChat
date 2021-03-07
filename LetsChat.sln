@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsChat.Core", "LetsChat.Core\LetsChat.Core.csproj", "{BEE304CA-0E2D-4347-AA85-5FECDCCEF64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsChat.Api", "LetsChat.Api\LetsChat.Api.csproj", "{EAA7ECA9-F50A-47E2-BA85-56A83648962E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE304CA-0E2D-4347-AA85-5FECDCCEF64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE304CA-0E2D-4347-AA85-5FECDCCEF64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE304CA-0E2D-4347-AA85-5FECDCCEF64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE304CA-0E2D-4347-AA85-5FECDCCEF64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA7ECA9-F50A-47E2-BA85-56A83648962E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA7ECA9-F50A-47E2-BA85-56A83648962E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA7ECA9-F50A-47E2-BA85-56A83648962E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA7ECA9-F50A-47E2-BA85-56A83648962E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
